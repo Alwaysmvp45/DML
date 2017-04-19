@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DML</string>
+    <string name="Title1">DML Student Worksheet</string>
+
+    <string name="Q1"> What is the first thing that comes to mind about the clinical experience?</string>
+    <string name="Q2"> What went right and why?</string>
+    <string name="Q3"> What would you do differently and why?</string>
+    <string name="Q4"> Framing (What is the client\'s story?)</string>
+    <string name="Q5"> Focus Key Problem/ND</string>
+    <string name="Q6"> Desired Client Outcome:</string>
+    <string name="Q7"> Nursing Interventions:</string>
+    <string name="Q8"> Associated Client Responses:</string>
+    <string name="Q9"> Evaluation and summary of client progress toward desired goal</string>
+    <string name="Q10"> Diagnoses/Procedure: \n \n \n Key Assessments:</string>
+    <string name="Q10a"> I don\'t know how this fits:</string>
+    <string name="Q11"> Thinking-In-Action</string>
+    <string name="Q12"> Thinking-On-Action</string>
+    <string name="Q13"> Thinking-Beyond-Action</string>
+    <string name="Done1">Done</string>
+    <string name="done">Done</string>
+    <string name="Name">Name</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="email">Email</string>
+    <string name="reflective_thinking">Reflective Thinking</string>
+    <string name="send">Send</string>
+    <string name="who_would_you_like_to_send_your_responses_to">Who would you like to send your responses to?</string>
+    <string name="someone_domain_com">someone@domain.com</string>
+</resources>
